@@ -4,7 +4,7 @@
 </h1>
 
 # 💫 About Me:
-I'm a versatile Computer Science student with a passion for technology and creativity. I thrive in team environments and enjoy delivering innovative solutions to complex problems. I'm committed to staying up-to-date with the latest tech trends and continually expanding my knowledge. Outside of coding, I'm an avid sketch artist with a keen eye for design, exploring the fascinating intersection of technology and aesthetics through web design.
+I'm a versatile Computer Science Graduate with a passion for technology and creativity. I thrive in team environments and enjoy delivering innovative solutions to complex problems. I'm committed to staying up-to-date with the latest tech trends and continually expanding my knowledge. Outside of coding, I'm an avid sketch artist with a keen eye for design, exploring the fascinating intersection of technology and aesthetics through web design.
 
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/6b7bdb0a-3447-4877-ad66-86f7844e69b2)
